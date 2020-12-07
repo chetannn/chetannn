@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Vue.js and Laravel
 - 🌱 I’m currently learning DevOps and AWS
 - 👯 I’m looking to collaborate on Vue.js and Vuetify
